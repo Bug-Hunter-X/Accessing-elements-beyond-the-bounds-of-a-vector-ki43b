@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: accessing elements outside the bounds of a vector. The `bug.rs` file contains the erroneous code, which attempts to access an element that does not exist.  The `bugSolution.rs` file provides a corrected version of the code, demonstrating how to avoid this error using proper bounds checking.
